@@ -1,0 +1,24 @@
+{
+  "name": "zoo",
+  "version": "1.0.0",
+  "description": "Zoo Rotunda",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioscattone/zoo.git"
+  },
+  "keywords": [
+    "Zoo",
+    "Rotunda",
+    "Excercise"
+  ],
+  "author": "Sergio Scattone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioscattone/zoo/issues"
+  },
+  "homepage": "https://github.com/sergioscattone/zoo#readme"
+}
